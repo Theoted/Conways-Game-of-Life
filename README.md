@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-### Run de project
+### Run the project
 
 ```
 Make
