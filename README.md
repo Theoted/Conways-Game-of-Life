@@ -3,8 +3,8 @@
 ### Run the project
 
 ```
-Make
-./life_game [maps/map_name] [developpement_speed_in_ms]
+$ Make
+$ ./life_game [maps/map_name] [developpement_speed_in_ms]
 ```
 
 
