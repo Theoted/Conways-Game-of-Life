@@ -24,6 +24,7 @@ typedef struct s_map
 typedef struct s_data
 {
     int     speed;
+    int     steps;
     t_mlx   *mlx;
     t_map   *map;
 }   t_data;
